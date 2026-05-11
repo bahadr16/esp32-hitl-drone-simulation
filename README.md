@@ -33,16 +33,16 @@ These adjustments successfully resolved the communication gap, allowing ArduPilo
 
 ###############################
 
-**Installation & Build**
-# 1. Clone the repository
+#**Installation & Build**
+1. Clone the repository
 git clone https://github.com/SENIN-KULLANICI-ADIN/Autonomous-HIL-Landing.git
 cd Autonomous-HIL-Landing
-# 2. Build the ROS 2 workspace
+2. Build the ROS 2 workspace
 colcon build
 source install/setup.bash
 
 
-***Execution (How to Run)**
+#***Execution (How to Run)**
 1. Physics Engine (Gazebo)
 gazebo --verbose ~/ardupilot_gazebo/worlds/iris_arducopter_runway.world
 
