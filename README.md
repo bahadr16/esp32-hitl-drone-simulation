@@ -12,7 +12,7 @@ Flight Stack: ArduPilot Copter SITL
 Physics Simulator: Gazebo 11 (Classic)
 Bridge: MAVROS / MAVLink Protocol
 
-🛠️ Prerequisites
+Prerequisites
 Ubuntu 22.04 LTS
 ROS 2 Humble
 ArduPilot SITL & MAVProxy
